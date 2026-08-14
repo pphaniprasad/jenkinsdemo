@@ -5,3 +5,4 @@ d=True
 e=[]
 f=3+4j
 print(a,b,c,d,e,f)
+print("Addition=",(a+b)
